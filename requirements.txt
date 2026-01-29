@@ -1,0 +1,8 @@
+Django==5.0.2
+djangorestframework==3.14.0
+django-cors-headers==4.3.1
+psycopg[binary,pool]>=3.1.0
+python-dotenv==1.0.0
+django-filter==23.5
+djangorestframework-simplejwt==5.3.1
+djangorestframework-simplejwt[blacklist]==5.3.1
